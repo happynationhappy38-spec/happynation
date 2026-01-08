@@ -1,0 +1,9 @@
+site-loja/
+│── index.html
+│── style.css
+│── script.js
+│
+└── imagens/
+    ├── camiseta.jpg
+    ├── calca.jpg
+    └── moletom.jpg
